@@ -24,7 +24,7 @@
 - 3.1 if文の基礎([Q3_1_1](./CHAPTER03/Q3_1_1.py)),([Q3_1_2](./CHAPTER03/Q3_1_2.py))
 - 3.2 if文の応用([Q3_2_1](./CHAPTER03/Q3_2_1.py)),([Q3_2_2.](./CHAPTER03/Q3_2_2.py))
 - 3.3 for文の基礎([Q3_3_1](./CHAPTER03/Q3_3_1.py)),([Q3_3_2](./CHAPTER03/Q3_3_2.py))
-- 3.4 for文の応用([Q3_4_1](./CHAPTER03/Q3_4_2.py)),([Q3_4_2](./CHAPTER03/Q3_4_2.py))
+- 3.4 for文の応用([Q3_4_1](./CHAPTER03/Q3_4_1.py)),([Q3_4_2](./CHAPTER03/Q3_4_2.py))
 - 3.5 while文の基礎([Q3_5_1](./CHAPTER03/Q3_5_1.py)),([Q3_5_2](./CHAPTER03/Q3_5_2.py))
 - 3.6 whileを使ったプログラミング([Q3_6_1](./CHAPTER03/Q3_6_1.py)),([Q3_6_2](./CHAPTER03/Q3_6_2.py))
 - 3.7 ファイルの操作
