@@ -4,3 +4,4 @@ for x, y, z in a:
     s += "{:4d}".format(z)
     if y == 9:
         s += "\n"
+print(s)
